@@ -1,0 +1,8 @@
+{
+  "name": "highlight-run/sourcemap-uploader",
+  "version": "0.0.0",
+  "private": true,
+  "bin": {
+    "sourcemap-uploader": "./index.js"
+  }
+}
